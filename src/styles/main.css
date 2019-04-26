@@ -1,0 +1,12 @@
+article {
+    margin: 10px;
+    padding: 10px;
+}
+
+.visited {
+    border: 1px red dashed;
+}
+
+.not-visited {
+    border: 1px green solid;
+}
